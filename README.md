@@ -14,7 +14,7 @@
  JComboBox: Pilihan dropdown untuk memilih kategori kebiasaan (cbKategori).
  JButton: Tombol untuk menambah kebiasaan baru (btnTambah) dan mereset seluruh centang harian (btnReset).
  JLabel: Menampilkan label form dan informasi status penyelesaian (lblStatus).
- JOptionPane: Menampilkan pesan pop-up peringatan apabila kolom input masih kosong saat tombol tambah ditekan.
+ JOptionPane: Menampilkan pesan popup peringatan apabila kolom input masih kosong saat tombol tambah ditekan.
 
 ### 4. Layout Manager
  BorderLayout: Mengatur tata letak utama pada JFrame (NORTH, CENTER, SOUTH) dan pada panelBawah.
